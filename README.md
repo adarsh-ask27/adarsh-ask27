@@ -25,7 +25,7 @@
 
 ### Replace ONLY that part with this:
 
-```markdown
+
 # 👨‍💻 About Me
 
 I'm an **AI & Full-Stack Developer** passionate about building practical products that solve real-world problems.
@@ -87,7 +87,7 @@ Businesses lose revenue because of:
 
 **RecoverAI** is designed to intelligently analyze failed payments and recommend or trigger the best recovery action.
 
-```text
+
 Payment Failure
        ↓
 Failure Analysis
@@ -101,7 +101,7 @@ Smart Retry Strategy
 Payment Recovery
        ↓
 Recovered Revenue
-```
+
 
 ### ⚡ Core Capabilities
 
@@ -254,7 +254,7 @@ Recovered Revenue
 
 # 🎯 Current Focus
 
-```text
+
 🤖 Artificial Intelligence       ███████████████████░  90%
 🌐 Full-Stack Development        █████████████████░░░  85%
 💳 FinTech                       ████████████████░░░░  80%
@@ -262,7 +262,7 @@ Recovered Revenue
 🧠 Data Structures               ██████████████░░░░░░  70%
 🏗️ System Design                ████████████░░░░░░░░  60%
 ☁️ Cloud Engineering             ███████████░░░░░░░░░  55%
-```
+
 
 ---
 
@@ -336,7 +336,7 @@ Learning scalable deployment and infrastructure.
 
 # 🏗️ How I Build
 
-```text
+
                IDEA
                  │
                  ▼
@@ -369,7 +369,7 @@ Learning scalable deployment and infrastructure.
               LEARN
                  │
                  └──────────→ REPEAT
-```
+
 
 ---
 
