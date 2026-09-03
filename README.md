@@ -22,38 +22,29 @@
 
 # 👨‍💻 About Me
 
-```javascript
-const adarsh = {
-    name: "Adarsh Pandey",
-    username: "adarsh-ask27",
 
-    role: [
-        "AI Developer",
-        "Full-Stack Developer",
-        "Product Builder"
-    ],
+### Replace ONLY that part with this:
 
-    interests: [
-        "Artificial Intelligence",
-        "Agentic AI",
-        "FinTech",
-        "SaaS",
-        "Backend Engineering",
-        "Automation"
-    ],
+```markdown
+# 👨‍💻 About Me
 
-    currentlyBuilding: "AI-powered products",
+I'm an **AI & Full-Stack Developer** passionate about building practical products that solve real-world problems.
 
-    currentMission:
-        "Build useful products that solve real-world problems.",
+My interests include **Artificial Intelligence, Agentic AI, FinTech, SaaS, Backend Engineering, and Automation**.
 
-    mindset:
-        "Think → Build → Test → Ship → Learn → Repeat",
+- 🤖 Building **AI-powered products**
+- 💳 Exploring **FinTech, payment systems and revenue intelligence**
+- ⚡ Interested in **AI Agents & Automation**
+- 🌐 Developing modern **full-stack applications**
+- 🧠 Improving my **DSA, DBMS, OS and system-design skills**
+- 🏗️ Interested in scalable backend architectures
+- 🚀 I prefer learning by **building real products**
 
-    availableFor:
-        "Internships • Collaborations • Interesting Projects"
-};
-```
+### 🎯 Current Mission
+
+**Think → Build → Test → Ship → Learn → Repeat**
+
+I'm currently focused on building useful products and exploring opportunities in **AI, FinTech, and full-stack development**.
 
 * 🤖 Building **AI-powered products**
 * 💳 Exploring **FinTech, payment systems and revenue intelligence**
