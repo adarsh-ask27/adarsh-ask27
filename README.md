@@ -46,14 +46,6 @@ My interests include **Artificial Intelligence, Agentic AI, FinTech, SaaS, Backe
 
 I'm currently focused on building useful products and exploring opportunities in **AI, FinTech, and full-stack development**.
 
-* 🤖 Building **AI-powered products**
-* 💳 Exploring **FinTech, payment systems and revenue intelligence**
-* ⚡ Interested in **AI Agents & Automation**
-* 🌐 Developing modern **full-stack applications**
-* 🧠 Improving my **DSA, DBMS, OS and system-design skills**
-* 🏗️ Interested in scalable backend architectures
-* 🚀 I prefer learning by **building real products**
-
 ---
 
 # 🚀 Featured Project
@@ -254,7 +246,7 @@ Recovered Revenue
 
 # 🎯 Current Focus
 
-
+``text``
 🤖 Artificial Intelligence       ███████████████████░  90%
 🌐 Full-Stack Development        █████████████████░░░  85%
 💳 FinTech                       ████████████████░░░░  80%
@@ -263,7 +255,7 @@ Recovered Revenue
 🏗️ System Design                ████████████░░░░░░░░  60%
 ☁️ Cloud Engineering             ███████████░░░░░░░░░  55%
 
-
+```
 ---
 
 # 🧠 What I'm Exploring
