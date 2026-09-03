@@ -25,7 +25,7 @@
 
 ### Replace ONLY that part with this:
 
-
+```markdown
 # 👨‍💻 About Me
 
 I'm an **AI & Full-Stack Developer** passionate about building practical products that solve real-world problems.
@@ -45,6 +45,14 @@ My interests include **Artificial Intelligence, Agentic AI, FinTech, SaaS, Backe
 **Think → Build → Test → Ship → Learn → Repeat**
 
 I'm currently focused on building useful products and exploring opportunities in **AI, FinTech, and full-stack development**.
+
+* 🤖 Building **AI-powered products**
+* 💳 Exploring **FinTech, payment systems and revenue intelligence**
+* ⚡ Interested in **AI Agents & Automation**
+* 🌐 Developing modern **full-stack applications**
+* 🧠 Improving my **DSA, DBMS, OS and system-design skills**
+* 🏗️ Interested in scalable backend architectures
+* 🚀 I prefer learning by **building real products**
 
 ---
 
@@ -79,7 +87,7 @@ Businesses lose revenue because of:
 
 **RecoverAI** is designed to intelligently analyze failed payments and recommend or trigger the best recovery action.
 
-
+```text
 Payment Failure
        ↓
 Failure Analysis
@@ -93,7 +101,7 @@ Smart Retry Strategy
 Payment Recovery
        ↓
 Recovered Revenue
-
+```
 
 ### ⚡ Core Capabilities
 
@@ -246,7 +254,7 @@ Recovered Revenue
 
 # 🎯 Current Focus
 
-``text``
+```text
 🤖 Artificial Intelligence       ███████████████████░  90%
 🌐 Full-Stack Development        █████████████████░░░  85%
 💳 FinTech                       ████████████████░░░░  80%
@@ -254,8 +262,8 @@ Recovered Revenue
 🧠 Data Structures               ██████████████░░░░░░  70%
 🏗️ System Design                ████████████░░░░░░░░  60%
 ☁️ Cloud Engineering             ███████████░░░░░░░░░  55%
-
 ```
+
 ---
 
 # 🧠 What I'm Exploring
@@ -328,7 +336,7 @@ Learning scalable deployment and infrastructure.
 
 # 🏗️ How I Build
 
-
+```text
                IDEA
                  │
                  ▼
@@ -361,7 +369,7 @@ Learning scalable deployment and infrastructure.
               LEARN
                  │
                  └──────────→ REPEAT
-
+```
 
 ---
 
