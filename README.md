@@ -388,8 +388,8 @@ Learning scalable deployment and infrastructure.
 
 <div align="center">
 
-<a href="https://github.com/adarsh-ask27/recover-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-ask27&repo=recover-ai&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/adarsh-ask27/RecoverAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-ask27&repo=RecoverAI&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
